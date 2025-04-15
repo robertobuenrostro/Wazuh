@@ -26,3 +26,35 @@
 
 ### Documentation & Learning Process
 >Recorded each step with clear explanations to reflect my learning journey and growing SOC analyst skillset.
+
+
+## Steps
+
+
+installed Java Development Kit(JDK) because Wazuh components require java.
+
+
+<a href="https://imgur.com/Gut9tje"><img src="https://i.imgur.com/Gut9tjel.png" title="source: imgur.com" /></a>
+
+
+installed wazuh 
+
+<a href="https://imgur.com/Qqojfgq"><img src="https://i.imgur.com/Qqojfgql.png" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/UOHLrjh"><img src="https://i.imgur.com/UOHLrjhl.png" title="source: imgur.com" /></a>
+
+
+Wazuh is up and Running
+
+
+<a href="https://imgur.com/hgp7Jkp"><img src="https://i.imgur.com/hgp7Jkpl.png?2" title="source: imgur.com" /></a>
+
+
+Adding the Wazuh agent on my Ubuntu VM
+
+<a href="https://imgur.com/vjdKhrZ"><img src="https://i.imgur.com/vjdKhrZl.png" title="source: imgur.com" /></a>
+
+
+Showing up on my Wazuh dashboard 
+
+<a href="https://imgur.com/x6nI5zA"><img src="https://i.imgur.com/x6nI5zAl.png" title="source: imgur.com" /></a>
